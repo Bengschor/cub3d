@@ -171,6 +171,3 @@ EA ./path_to_east_texture.xpm     # East texture
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-Made with ❤️ by [Bengschor](https://github.com/Bengschor)
